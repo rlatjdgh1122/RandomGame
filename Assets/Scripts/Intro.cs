@@ -31,4 +31,8 @@ public class Intro : MonoBehaviour
     {
         SceneManager.LoadScene(5);
     }
+    public void randomscene()
+    {
+        SceneManager.LoadScene(Random.Range(3, 6));
+    }
 }
