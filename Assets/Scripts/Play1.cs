@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-public class UIManager : MonoBehaviour
+public class Play1 : MonoBehaviour
 {
     [SerializeField] Text number;
     [SerializeField] GameObject yellow = null;

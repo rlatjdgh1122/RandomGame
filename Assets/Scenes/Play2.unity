@@ -1078,7 +1078,7 @@ MonoBehaviour:
   redSlider: {fileID: 1172967517}
   red: {fileID: 172057887}
   yellow: {fileID: 1869430182}
-  max: 300
+  max: 259
   NumberMax: 20
   time: 1
 --- !u!4 &1353933907
